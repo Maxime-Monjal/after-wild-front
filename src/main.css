@@ -1,0 +1,11 @@
+:root {
+  --red-background-color: #f76c6c;
+  --gray-background-color: #f2f2f2;
+  --blackgray-background-color: #3b3838;
+  --blackgray-text-color: #39424e;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
