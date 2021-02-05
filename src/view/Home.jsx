@@ -1,9 +1,10 @@
 import React from "react";
+import Wilders from "../components/Wilders/Wilders";
 
-function Home(props) {
+function Home() {
   return (
     <div>
-      <h1>Hello</h1>
+      <Wilders />
     </div>
   );
 }

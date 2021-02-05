@@ -1,0 +1,38 @@
+.header {
+  background-color: #f76c6c;
+  height: 3rem;
+  width: 100%;
+}
+
+h1 {
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.homeIcon {
+  margin-left: 1rem;
+  height: 2rem;
+  width: 2rem;
+}
+
+.goldenBook {
+  margin-right: 1rem;
+  height: 2rem;
+  width: 2rem;
+}
+
+.containerLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  padding: 2rem;
+}
